@@ -30,7 +30,7 @@ export const Skills = [
     slug: "Linux",
     Component: SiLinux,
     title: "Linux",
-    Description: () => <>Experience in firebase with auth and database</>,
+    Description: () => <>Experience in Unix System.</>,
   },
   {
     slug: "git",
